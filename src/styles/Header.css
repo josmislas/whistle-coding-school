@@ -1,0 +1,35 @@
+.header {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+.title {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.subtitle {
+    margin-top: -15px;
+}
+
+.logo-w-c {
+    height: 70px;
+}
+
+.contact {
+    font-size: 2em;
+    color: silver;
+}
+
+.map {
+    font-size: 2em;
+    color: silver;
+}

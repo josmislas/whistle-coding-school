@@ -1,0 +1,16 @@
+.info-wrapper {
+    width: 1000px;
+    height: 300px;
+    margin: 10px 10px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+
+.image-info {
+    height: 100%;
+    width: auto;
+    padding: 50px;
+}
